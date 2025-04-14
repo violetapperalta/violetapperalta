@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Group 2](https://github.com/user-attachments/assets/fadb5607-6c86-4410-a3d4-1d1ff14aee8e)
 
 <!--
 **violetapperalta/violetapperalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
